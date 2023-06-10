@@ -1,0 +1,20 @@
+#outer-frame{width:990px;margin:0 auto}
+h1,h2,p{margin:0 0 1em 0;line-height:1.6em}
+h1{font-size:18pt;font-weight:400;margin:10px 0}
+h2{padding-top:3px;padding-bottom:10px;margin-bottom:4px;font-size:10pt}
+#page-content{padding-bottom:28px;min-height:425px}
+.main-skip-destination{position:fixed;top:0}
+#page-header{background:#fff;box-sizing:border-box;height:90px;padding:16px 0;width:100%}
+#page-header.page-header-border{height:73px;border-bottom:1px solid #d0d4d9;padding:19px 0;margin:0 auto 50px;width:990px}
+#page-header #inner-page-header{margin:auto;width:990px}
+#page-header .home-icon-container #home-icon{display:inline-block;vertical-align:middle}
+body{background-color:#fff;min-height:100%;margin:0;padding:0;font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;font-size:13px;color:#000;color:var(--color__standard__text);font-weight:400}
+a,a *{cursor:pointer;outline:0}
+a{color:#0061ff;text-decoration:none}
+a:focus{text-decoration:underline}
+.peering-page-div{margin-bottom:40px}
+.peering-h1{font-size:28px}
+.peering-h2{font-weight:400;font-size:15pt;padding-bottom:0}
+.peering-h1,.peering-h2{margin-bottom:8px}
+.peering-info-table,.peering-p{margin-bottom:20px}
+.peering-info-table-label{width:160px}
